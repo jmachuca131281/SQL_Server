@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PUNTO_DE_VENTA_CODIGO369_VSHARP", "PUNTO_DE_VENTA_CODIGO369_VSHARP\PUNTO_DE_VENTA_CODIGO369_VSHARP.csproj", "{93DE1670-1B8E-4690-B21F-1AD87F083A25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PUNTO_DE_VENTA_CODIGO369_CSHARP", "C:\Users\jmachuca\Downloads\CAJA+PRINCIPAL+ADA369+C#\CAJA PRINCIPAL ADA369 C#\PUNTO_DE_VENTA_CODIGO369_CSHARP\PUNTO_DE_VENTA_CODIGO369_CSHARP\PUNTO_DE_VENTA_CODIGO369_CSHARP.csproj", "{9CCE8981-B58B-431D-A2A0-9352C3E086ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93DE1670-1B8E-4690-B21F-1AD87F083A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93DE1670-1B8E-4690-B21F-1AD87F083A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93DE1670-1B8E-4690-B21F-1AD87F083A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93DE1670-1B8E-4690-B21F-1AD87F083A25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CCE8981-B58B-431D-A2A0-9352C3E086ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CCE8981-B58B-431D-A2A0-9352C3E086ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CCE8981-B58B-431D-A2A0-9352C3E086ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CCE8981-B58B-431D-A2A0-9352C3E086ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6A94CC6-701B-451E-BA3B-BFCCDE3BF4AA}
+	EndGlobalSection
+EndGlobal
